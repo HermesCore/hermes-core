@@ -1,0 +1,9 @@
+D:\OneDrive\Music\Documents\HermesCore\hermes-core-main\target\debug\deps\num_enum_derive-e74849ee45c7e83e.dll: C:\Users\rodin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\num_enum_derive-0.7.3\src\lib.rs C:\Users\rodin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\num_enum_derive-0.7.3\src\enum_attributes.rs C:\Users\rodin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\num_enum_derive-0.7.3\src\parsing.rs C:\Users\rodin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\num_enum_derive-0.7.3\src\utils.rs C:\Users\rodin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\num_enum_derive-0.7.3\src\variant_attributes.rs
+
+D:\OneDrive\Music\Documents\HermesCore\hermes-core-main\target\debug\deps\num_enum_derive-e74849ee45c7e83e.d: C:\Users\rodin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\num_enum_derive-0.7.3\src\lib.rs C:\Users\rodin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\num_enum_derive-0.7.3\src\enum_attributes.rs C:\Users\rodin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\num_enum_derive-0.7.3\src\parsing.rs C:\Users\rodin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\num_enum_derive-0.7.3\src\utils.rs C:\Users\rodin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\num_enum_derive-0.7.3\src\variant_attributes.rs
+
+C:\Users\rodin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\num_enum_derive-0.7.3\src\lib.rs:
+C:\Users\rodin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\num_enum_derive-0.7.3\src\enum_attributes.rs:
+C:\Users\rodin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\num_enum_derive-0.7.3\src\parsing.rs:
+C:\Users\rodin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\num_enum_derive-0.7.3\src\utils.rs:
+C:\Users\rodin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\num_enum_derive-0.7.3\src\variant_attributes.rs:

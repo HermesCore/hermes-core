@@ -1,0 +1,11 @@
+D:\OneDrive\Music\Documents\HermesCore\hermes-core-main\target\debug\deps\libhashers-d7448b3f76eeb322.rmeta: C:\Users\rodin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hashers-1.0.1\src\lib.rs C:\Users\rodin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hashers-1.0.1\src\jenkins\mod.rs C:\Users\rodin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hashers-1.0.1\src\jenkins\spooky_hash.rs C:\Users\rodin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hashers-1.0.1\src\pigeon.rs C:\Users\rodin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hashers-1.0.1\src\oz.rs
+
+D:\OneDrive\Music\Documents\HermesCore\hermes-core-main\target\debug\deps\libhashers-d7448b3f76eeb322.rlib: C:\Users\rodin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hashers-1.0.1\src\lib.rs C:\Users\rodin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hashers-1.0.1\src\jenkins\mod.rs C:\Users\rodin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hashers-1.0.1\src\jenkins\spooky_hash.rs C:\Users\rodin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hashers-1.0.1\src\pigeon.rs C:\Users\rodin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hashers-1.0.1\src\oz.rs
+
+D:\OneDrive\Music\Documents\HermesCore\hermes-core-main\target\debug\deps\hashers-d7448b3f76eeb322.d: C:\Users\rodin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hashers-1.0.1\src\lib.rs C:\Users\rodin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hashers-1.0.1\src\jenkins\mod.rs C:\Users\rodin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hashers-1.0.1\src\jenkins\spooky_hash.rs C:\Users\rodin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hashers-1.0.1\src\pigeon.rs C:\Users\rodin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hashers-1.0.1\src\oz.rs
+
+C:\Users\rodin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hashers-1.0.1\src\lib.rs:
+C:\Users\rodin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hashers-1.0.1\src\jenkins\mod.rs:
+C:\Users\rodin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hashers-1.0.1\src\jenkins\spooky_hash.rs:
+C:\Users\rodin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hashers-1.0.1\src\pigeon.rs:
+C:\Users\rodin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hashers-1.0.1\src\oz.rs:
